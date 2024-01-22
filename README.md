@@ -1,0 +1,1 @@
+<p>This project is to make a basic recipe website for the Odin Project's Foundations Course</p>
