@@ -1,4 +1,4 @@
-This project is to make a recipe website as part of the Odin Project's Foundations Course
+This project is to make a recipe website as part of the Odin Project's Foundations Course, which I am doing to refresh myself on the basics.
 
 The purpose of this project is to get experience with using header tags, paragraph tags, unorganized and organized list tags, linking to other pages, and adding images to a page.
 

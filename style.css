@@ -1,0 +1,15 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+.body {
+    background-color:aquamarine;
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+ol {
+    display: inline-block;
+    text-align: left;
+}
